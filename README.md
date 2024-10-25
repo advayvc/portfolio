@@ -22,14 +22,14 @@ As well as these, I am undertaking a formal computer science qualification!
   Python
 </h2>
 
-- A [login system](https://github.com/avchitnis/login-project)
-- A [discord bot](https://github.com/avchitnis/discord-bot) 
+- A [login system](https://github.com/avchitnis/login-project) made using the python JSON module <br>
+- A [discord bot](https://github.com/avchitnis/discord-bot) which makes good use of slash commands and Google's Gemini AI
 
 <h2>
   Lua
 </h2>
 
-- A [mouse movement tracking commission](https://github.com/avchitnis/mouse-commission) involving coordinates
+- A [mouse movement commission](https://github.com/avchitnis/mouse-commission) involving playing a corresponding animation to the direction of a drag
 
 Specific details regarding each of these past works can be found on their individual pages. <br>
 Please do feel free to have a look at them! <br>
