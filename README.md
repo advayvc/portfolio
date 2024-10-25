@@ -1,5 +1,5 @@
 # About me
-Hello! I am a computer science enthusiast - specialising in Python, recently delving into Lua scripting <br>
+Hello! I am a computer science enthusiast - specialising in Python, recently delving into Lua scripting. <br>
 
 When completing commissions to a high standard, I make use of:
 - computational thinking
@@ -11,9 +11,18 @@ When completing commissions to a high standard, I make use of:
 - algorithmic thinking
   - identifying logical steps from start to finish to produce a reusable algorithm
 
-You can find my profile [here](https://www.roblox.com/users/2348124587/profile)
+You can find my profile [here](https://www.roblox.com/users/2348124587/profile).
 
 # My experience
+My experience ranges from around 5 years in Python to half a year in Lua which I am building on. <br>
+As well as undertaking a formal computer science qualification, my knowledge of these programming languages is will demonstrated in the following projects. <br>
 
+<h2>
+  Python
+</h2>
 
-Current status: `available for hire!`
+<h2>
+  Lua
+</h2>
+
+Current status: `available`
