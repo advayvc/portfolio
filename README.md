@@ -30,7 +30,7 @@ As well as these, I am undertaking a formal computer science qualification!
   Lua
 </h2>
 
-- [Mouse movement commission](https://github.com/avchitnis/mouse-commission) involving playing a corresponding animation to the direction of a drag
+- [Mouse drag commission](https://github.com/avchitnis/mouse-commission), involves linking drag directions to animations
 
 Specific details regarding each of these past works can be found on their individual pages. <br>
 Please do feel free to have a look at them! <br>
