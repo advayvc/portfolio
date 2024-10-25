@@ -15,7 +15,8 @@ You can find my profile [here](https://www.roblox.com/users/2348124587/profile).
 
 # My experience
 My experience ranges from around 5 years in Python to half a year in Lua which I am building on. <br>
-As well as undertaking a formal computer science qualification, my knowledge of these programming languages is will demonstrated in the following projects. <br>
+My knowledge of these programming languages is well demonstrated in the below projects. <br>
+As well as these, I am undertaking a formal computer science qualification! 
 
 <h2>
   Python
