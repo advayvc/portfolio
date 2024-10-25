@@ -24,6 +24,7 @@ As well as these, I am undertaking a formal computer science qualification!
 
 - [Login system](https://github.com/avchitnis/login-project) made using the python JSON module <br>
 - [Discord bot](https://github.com/avchitnis/discord-bot) which makes good use of slash commands and Google's Gemini AI
+- My [project euler solutions](https://github.com/avchitnis/project-euler/) to their first ten questions
 
 <h2>
   Lua
