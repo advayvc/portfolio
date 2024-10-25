@@ -23,9 +23,15 @@ As well as these, I am undertaking a formal computer science qualification!
 </h2>
 
 - A [login system](https://github.com/avchitnis/login-project)
+- A [discord bot](https://github.com/avchitnis/discord-bot) 
 
 <h2>
   Lua
 </h2>
+
+- A [mouse movement tracking commission](https://github.com/avchitnis/mouse-commission) involving coordinates
+
+Specific details regarding each of these past works can be found on their individual pages. <br>
+Please do feel free to have a look at them! <br>
 
 Current status: `available`
