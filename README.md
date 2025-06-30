@@ -1,4 +1,4 @@
-# About avchitnis
+# About advayvc
 Hello! I am a computer science enthusiast - specialising in Python, recently delving into Lua scripting. <br>
 
 When completing commissions to a high standard, I make use of:
