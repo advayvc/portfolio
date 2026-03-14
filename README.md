@@ -36,22 +36,3 @@ Specific details regarding each of these past works can be found on their indivi
 Please do feel free to have a look at them! <br>
 
 Current status: `available`.
-
-Projects
--------------------------------------------------
-| Login System                                  |
-| Python / JSON authentication system           |
-| [View Project]                                |
--------------------------------------------------
-
--------------------------------------------------
-| Discord Bot                                   |
-| Slash commands + Gemini AI integration        |
-| [View Project]                                |
--------------------------------------------------
-
--------------------------------------------------
-| Project Euler Solutions                       |
-| First 10 algorithm challenges                 |
-| [View Project]                                |
--------------------------------------------------
