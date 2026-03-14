@@ -1,45 +1,6 @@
-# About advayvc
-Hello! I am a computer science enthusiast - specialising in Python, recently delving into Lua scripting. <br>
-
-When completing commissions to a high standard, I make use of:
-- computational thinking.
-  - understanding complex problems in order to form a solution.
-- decomposition.
-  - breaking tasks down into sub programs which can be made individually.
-- abstraction.
-  - simplifying details which are not relevant to the assignment.
-- algorithmic thinking.
-  - identifying logical steps from start to finish to produce a reusable algorithm.
-
-You can find my profile [here](https://www.roblox.com/users/2348124587/profile).
-
-# Experience
-My experience ranges from around 5 years in Python to one year in Lua which I am building on. <br>
-My knowledge of these programming languages is well demonstrated in the below projects. <br>
-As well as these, I am undertaking a formal computer science qualification! 
-
-<h2>
-  Python
-</h2>
-
--  made using the python JSON module.
--  which makes good use of slash commands and Google's Gemini AI.
-- My  to their first ten questions.
-
-<h2>
-  Lua
-</h2>
-
-- , involves linking drag directions to animations.
-
-Specific details regarding each of these past works can be found on their individual pages. <br>
-Please do feel free to have a look at them! <br>
-
-Current status: `available`.
-
 # 🚀 About advayvc
 
-💻 Computer Science Student 
+💻 Computer Science Student <br>
 🐍 Python Developer | 🌙 Learning Lua  
 🎯 Interested in automation, bots, and scripting
 
@@ -96,12 +57,6 @@ Focus:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=advayvc&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=advayvc&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Contact / Profile
-
-🔗 GitHub Profile: https://github.com/advayvc  
 
 ---
 
