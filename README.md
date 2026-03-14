@@ -36,3 +36,86 @@ Specific details regarding each of these past works can be found on their indivi
 Please do feel free to have a look at them! <br>
 
 Current status: `available`.
+
+
+# 👋 Hi, I'm advayvc
+
+💻 Computer Science Enthusiast  
+🐍 Python Developer | 🌙 Learning Lua  
+🎯 Interested in automation, bots, and scripting
+
+---
+
+## 🚀 About Me
+
+I'm a computer science enthusiast specializing in **Python development**, currently expanding my skills in **Lua scripting**.
+
+I enjoy solving complex problems using computational thinking and writing clean, reusable algorithms.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
+
+---
+
+## 📂 Projects
+
+### 🔐 Login System
+Python authentication system using the **JSON module**.
+
+**Features**
+- User authentication
+- Data storage using JSON
+- Simple CLI interface
+
+---
+
+### 🤖 Discord Bot
+A Discord bot using **slash commands** and **AI integration**.
+
+**Features**
+- Slash commands
+- AI responses
+- Moderation utilities
+
+---
+
+### 📘 Euler Solutions
+Solutions for the **first 10 Project Euler problems** written in Python.
+
+Focus:
+- Algorithm optimization
+- Mathematical problem solving
+
+---
+
+### 🖱 Lua Mouse Drag Animation
+A Lua project linking **mouse drag direction to animation triggers**.
+
+Focus:
+- Event-driven scripting
+- Input handling
+- Animation control
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=advayvc&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=advayvc&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact / Profile
+
+🔗 GitHub Profile: https://github.com/advayvc  
+
+---
+
+⭐ *Currently available for commissions*
