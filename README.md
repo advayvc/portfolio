@@ -37,24 +37,11 @@ Please do feel free to have a look at them! <br>
 
 Current status: `available`.
 
-
-# 👋 Hi, I'm advayvc
+# 🚀 About advayvc
 
 💻 Computer Science Enthusiast  
 🐍 Python Developer | 🌙 Learning Lua  
 🎯 Interested in automation, bots, and scripting
-
----
-
-## 🚀 About Me
-
-I'm a computer science enthusiast specializing in **Python development**, currently expanding my skills in **Lua scripting**.
-
-I enjoy solving complex problems using computational thinking and writing clean, reusable algorithms.
-
----
-
-## 🛠 Tech Stack
 
 **Languages**
 
