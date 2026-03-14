@@ -36,3 +36,74 @@ Specific details regarding each of these past works can be found on their indivi
 Please do feel free to have a look at them! <br>
 
 Current status: `available`.
+
+
+# Hi, I'm advayvc 👋
+
+💻 **Python Developer** | Learning **Lua**
+🎓 Computer Science Student
+🚀 Passionate about problem solving, automation, and algorithms.
+
+---
+
+## 🧠 Problem-Solving Approach
+
+When developing solutions, I focus on core computational thinking principles:
+
+* **Computational Thinking** – understanding complex problems
+* **Decomposition** – breaking tasks into manageable parts
+* **Abstraction** – focusing only on relevant details
+* **Algorithmic Thinking** – building logical step-by-step solutions
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+* Python (5 years experience)
+* Lua (1 year and growing)
+
+**Tools & Concepts**
+
+* JSON
+* Discord Bots
+* APIs
+* Algorithm Design
+* Problem Solving
+
+---
+
+## 🚀 Projects
+
+### 🔐 Login System
+
+A Python authentication system using the JSON module to store and validate users.
+
+### 🤖 Discord AI Bot
+
+A Discord bot using slash commands and Google Gemini AI for intelligent responses.
+
+### 📘 Project Euler Solutions
+
+Python solutions for the first 10 Project Euler challenges.
+
+### 🖱 Mouse Drag Animation (Lua)
+
+A Lua system that links mouse drag directions to character animations.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=advayvc\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=advayvc\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📬 Contact & Status
+
+🟢 **Current Status:** Available for commissions
+
+Check out my repositories to see more of my work!
