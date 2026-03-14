@@ -22,15 +22,15 @@ As well as these, I am undertaking a formal computer science qualification!
   Python
 </h2>
 
-- [Login system](https://github.com/avchitnis/login-project) made using the python JSON module.
-- [Discord bot](https://github.com/avchitnis/discord-bot) which makes good use of slash commands and Google's Gemini AI.
-- My [project euler solutions](https://github.com/avchitnis/project-euler/) to their first ten questions.
+-  made using the python JSON module.
+-  which makes good use of slash commands and Google's Gemini AI.
+- My  to their first ten questions.
 
 <h2>
   Lua
 </h2>
 
-- [Mouse drag commission](https://github.com/avchitnis/mouse-commission), involves linking drag directions to animations.
+- , involves linking drag directions to animations.
 
 Specific details regarding each of these past works can be found on their individual pages. <br>
 Please do feel free to have a look at them! <br>
@@ -39,7 +39,7 @@ Current status: `available`.
 
 # 🚀 About advayvc
 
-💻 Computer Science Enthusiast  
+💻 Computer Science Student 
 🐍 Python Developer | 🌙 Learning Lua  
 🎯 Interested in automation, bots, and scripting
 
@@ -52,7 +52,7 @@ Current status: `available`.
 
 ## 📂 Projects
 
-### 🔐 Login System
+### 🔐 [Login System](https://github.com/avchitnis/login-project)
 Python authentication system using the **JSON module**.
 
 **Features**
@@ -62,7 +62,7 @@ Python authentication system using the **JSON module**.
 
 ---
 
-### 🤖 Discord Bot
+### 🤖 [Discord Bot](https://github.com/avchitnis/discord-bot)
 A Discord bot using **slash commands** and **AI integration**.
 
 **Features**
@@ -72,7 +72,7 @@ A Discord bot using **slash commands** and **AI integration**.
 
 ---
 
-### 📘 Euler Solutions
+### 📘 [Euler Solutions](https://github.com/avchitnis/project-euler/)
 Solutions for the **first 10 Project Euler problems** written in Python.
 
 Focus:
@@ -81,7 +81,7 @@ Focus:
 
 ---
 
-### 🖱 Lua Mouse Drag Animation
+### 🖱 [Lua Mouse Drag Animation](https://github.com/avchitnis/mouse-commission)
 A Lua project linking **mouse drag direction to animation triggers**.
 
 Focus:
