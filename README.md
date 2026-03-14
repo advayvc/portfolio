@@ -36,3 +36,10 @@ Specific details regarding each of these past works can be found on their indivi
 Please do feel free to have a look at them! <br>
 
 Current status: `available`.
+
+| Project | Language | Description |
+|-------|-------|-------|
+| Login System | Python | JSON-based authentication system |
+| Discord Bot | Python | AI-powered slash command bot |
+| Euler Solutions | Python | Math problem solving |
+| Mouse Drag Animations | Lua | Direction-based animation control |
