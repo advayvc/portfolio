@@ -1,7 +1,7 @@
 # About advayvc
 
-- Computer Science Student <br>
-- Python Developer | Learning Lua  
+- Computer Science student
+- Python developer | learning Lua  
 - Interested in automation, bots, and scripting
 ---
 
